@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\AxeleratorGabooster.exe.config
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\AxeleratorGabooster.exe
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\AxeleratorGabooster.pdb
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\WindowsInput.dll
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\WindowsInput.pdb
+C:\Users\gabri\source\repos\AxeleratorGabooster\bin\Debug\WindowsInput.xml
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.frm_Main.resources
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.Properties.Resources.resources
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.csproj.CopyComplete
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.exe
+C:\Users\gabri\source\repos\AxeleratorGabooster\obj\Debug\AxeleratorGabooster.pdb
